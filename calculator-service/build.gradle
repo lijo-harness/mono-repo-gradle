@@ -1,2 +1,4 @@
 
-// Calculator service module
+plugins {
+    id 'java'
+}
