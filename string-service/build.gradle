@@ -1,2 +1,4 @@
 
-// String utility service module
+plugins {
+    id 'java'
+}
