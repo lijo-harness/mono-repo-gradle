@@ -1,0 +1,5 @@
+
+rootProject.name = 'java-monorepo'
+
+include 'calculator-service'
+include 'string-service'
